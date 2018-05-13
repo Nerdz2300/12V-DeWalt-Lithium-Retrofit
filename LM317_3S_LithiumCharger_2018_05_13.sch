@@ -4689,6 +4689,9 @@ Vout (dead cell), 3V each, 9V total
 6V Drop, 1A output Current, 6W.
 7C/W heatsink
 67C </text>
+<text x="60.96" y="60.96" size="1.9304" layer="91">12.6V Lithium Charger
+By Chris Savage
+5/13/2018</text>
 </plain>
 <instances>
 <instance part="U1" gate="1" x="99.06" y="128.27"/>
