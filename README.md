@@ -1,4 +1,4 @@
-#12V DeWalt Lithium Battery Retrofit
+# 12V DeWalt Lithium Battery Retrofit
 
 Plan is to rebuild a old/bad DeWalt battery and Retrofit it with some lithium cells that I pulled from a used laptop battery
 
@@ -11,9 +11,16 @@ Each cell in series will have to be balanced, so a balancer is needed.
 This is untested thusfar, but I have built the main circuit before which does work. Everything else is extra. 
 
 To Do:
-BOM for Charger
-Balancer Circuitry
-Balancer BOM
-Build and Test Charger
-Build and test Balancer
-Build the actual pack
+
+*BOM for Charger
+
+*Balancer Circuitry
+
+*Balancer BOM
+
+*Build and Test Charger
+
+*Build and test Balancer
+
+*Build the actual pack
+
