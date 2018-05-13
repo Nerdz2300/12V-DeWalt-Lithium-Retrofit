@@ -1,5 +1,7 @@
 # 12V DeWalt Lithium Battery Retrofit
 
+## Project Start Date: 5/07/2018
+
 Plan is to rebuild a old/bad DeWalt battery and Retrofit it with some lithium cells that I pulled from a used laptop battery
 
 It will have a 12.6V Charger, +/-20mV Accuracy, 1A charge rate. 2 LEDs, one for Charging, one for Done
