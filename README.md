@@ -12,15 +12,15 @@ This is untested thusfar, but I have built the main circuit before which does wo
 
 To Do:
 
-*BOM for Charger
+* BOM for Charger
 
-*Balancer Circuitry
+* Balancer Circuitry
 
-*Balancer BOM
+* Balancer BOM
 
-*Build and Test Charger
+* Build and Test Charger
 
-*Build and test Balancer
+* Build and test Balancer
 
-*Build the actual pack
+* Build the actual pack
 
