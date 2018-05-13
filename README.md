@@ -26,3 +26,4 @@ To Do:
 
 * Build the actual pack
 
+![schematic](https://github.com/chrissavage2300/12V-DeWalt-Lithium-Retrofit/blob/master/Schematic.png)
